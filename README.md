@@ -7,7 +7,7 @@
   - (upcoming) I'm designing some fun musical experiments with [Tone.js](https://tonejs.github.io/) to develop my Web Audio skills
 
 #### 📚 I'm currently working my way through
-  - [The Rust Programming Language](https://rust-book.cs.brown.edu/) 🦀
+  - [The Rust Programming Language](https://rust-book.cs.brown.edu/) (the experimental [interactive version](https://rust-book.cs.brown.edu/experiment-intro.html)) 🦀
   - [Designing Data-Intesive Applications](https://dataintensive.net/) by Martin Kleppmann ⚙️
   - Learning enough Japanese to pass the [JPLT N3](https://www.jlpt.jp/e/about/levelsummary.html) in the winter 🈴
 
