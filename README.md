@@ -3,6 +3,7 @@
 #### 🔭 _I'm looking for Front-End and Full-Stack roles, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/wren-hawthorne/)!_
 
 #### 🏗️ Side projects I'm tinkering with
+  - [OctoLooper](https://github.com/wrenhawth/octo-looper) A cute tool for generating musical loops, I'm working on this for my Educational Technology course
   - [ToDone](https://github.com/wrenhawth/todone) A to-do list app to experiment with Next.js, PostgreSQL, and ORM tools
   - (upcoming) I'm designing some fun musical experiments with [Tone.js](https://tonejs.github.io/) to develop my Web Audio skills
 
